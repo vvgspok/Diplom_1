@@ -1,0 +1,11 @@
+.idea/
+*__init__.py
+__init__.py
+.gitignore
+&
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+
